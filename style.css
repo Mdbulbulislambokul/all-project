@@ -1,0 +1,37 @@
+body{
+    background-image: url(./top-view-abstract-assortment-with-innovation-elements\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.heding-tag, .nav-tag{
+    text-align: center;
+   margin-left: 250px;
+    margin-top: 190px;
+}
+.new-us{
+   /* margin-left: 20px; */
+   padding: 9px;
+   font-size: 15px;
+   background-color: orange;
+   color: #FFF;
+}
+.main-year{
+    margin-top: 350px;
+}
+.failures{
+    text-align: center;
+    margin-left: 700px;
+    margin-top: -510px;
+}
+.section-tag{
+    text-align: center;
+    /* margin-left: 200px; */
+    margin-top: 390px;
+}
+.all-main{
+    display: flex;
+    grid-template-columns: repeat(4,1 fr);
+    gap: 200px;
+    margin-left: 120px;
+    margin-top: 90px;
+}
